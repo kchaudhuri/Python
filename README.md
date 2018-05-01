@@ -1,7 +1,7 @@
 # Python 
 
-Python code snippets.
+1. Python code snippets.
 
-Python Coding Challenges.
+2. Python Coding Challenges.
 
-Python library files.
+3. Python library files.
