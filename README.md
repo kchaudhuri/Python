@@ -1,3 +1,4 @@
 # Python 
 
-Python code snippets
+Python code snippets.
+Python Coding Challenges.
